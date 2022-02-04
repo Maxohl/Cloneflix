@@ -1,0 +1,252 @@
+[
+    {
+        "title": "Enola Holmes",
+        "type": "serie",
+        "cover": "https://i.imgur.com/QGgXFl6.png",
+        "logo": "https://i.imgur.com/ZqxNOCO.png",
+        "thumbnail": "https://i.imgur.com/tPqnpDv.png",
+        "description": "Enola Holmes é um filme de mistério de 2020, baseado no livro O legado de Enola Holmes",
+        "genres": [
+            "Filmes para toda a família",
+            "Obras de época",
+            "Filmes baseados em livros"
+        ],
+        "cast": [
+            "Millie Bob Brown",
+            "Henry Cavill",
+            "Sam Claflin"
+        ],
+        " scenes_moments": [
+            "Espirituosos",
+            "Suspense no ar",
+            "Empolgantes"
+        ]
+    },
+    {
+        "title": "Grey's Anathomy",
+        "type": "serie",
+        "cover": "https://i.imgur.com/mPztp9C.png",
+        "logo": "https://i.imgur.com/Uy3KxUI.png",
+        "thumbnail": "https://i.imgur.com/kGMEeXT.png",
+        "description": "Um grupo de médicos do Hospital Seattle Grace, com muito romance, amizade e parcerias.",
+        "genres": [
+            "Dramas romanticos para TV",
+            "Séries dramáticas",
+            "Séries do EUA"
+        ],
+        "cast": [
+            "Ellen Pompeo",
+            "Sandra Oh",
+            "Katherine Heigl"
+        ],
+        " scenes_moments": [
+            "Comoventes",
+            "Romantico",
+            "Medicina"
+        ]
+    },
+    {
+        "title": "Gotham",
+        "type": "serie",
+        "cover": "https://i.imgur.com/iDm1pXK.png",
+        "logo": "https://i.imgur.com/oytW0ZC.png",
+        "thumbnail": "https://i.imgur.com/D6vEM6k.png",
+        "description": "O tenente James Gordon chega a Gotham com o intuito de acabar com a criminalidade, porém se depara com o Batman e Coringa.",
+        "genres": [
+            "Séries baseadas em HQ",
+            "Séries dramáticas sobre crime",
+            "Séries dramáticas"
+        ],
+        "cast": [
+            "Ben MacKenzie",
+            "Donal Logue",
+            "Jada Pinkett Smith"
+        ],
+        " scenes_moments": [
+            "Vigoroso",
+            "Empolgantes"
+        ]
+    },
+    {
+        "title": "Breaking Bad",
+        "type": "serie",
+        "cover": "https://i.imgur.com/EJyDFeY.png",
+        "logo": "https://i.imgur.com/4xN7wB8.png",
+        "thumbnail": "https://i.imgur.com/smFnAR5.png",
+        "description": "O professor de química Walter White não acredita que sua vida esta no caminho certo.",
+        "genres": [
+            "Séries dramáticas sobre crime",
+            "Suspense para TV"
+        ],
+        "cast": [
+            "Brayan Cranston",
+            "Aaron Paul",
+            "Anna Gunn"
+        ],
+        " scenes_moments": [
+            "Violentos",
+            "Realistas",
+            "Sombrios"
+        ]
+    },
+    {
+        "title": "The Umbrella Academy",
+        "type": "serie",
+        "cover": "https://i.imgur.com/tGKxkFz.png",
+        "logo": "https://i.imgur.com/gbLdK3F.png",
+        "thumbnail": "https://i.imgur.com/ErM4aCe.png",
+        "description": "Com a morte do pai, irmãos com poderes extraordinários tem como objetivo descobrir o que aconteceu naquela noite.",
+        "genres": [
+            "Séries de ficção científica",
+            "Séries baseadas em HQ",
+            "Séries do EUA"
+        ],
+        "cast": [
+            "Ellen Page",
+            "Tom Hopper",
+            "David Castãneda"
+        ],
+        " scenes_moments": [
+            "Realidade Alternativa",
+            "Excentricos",
+            "Peculiares"
+        ]
+    },
+    {
+        "title": "Tropa de Elite",
+        "type": "movie",
+        "cover": "https://i.imgur.com/Sjxgn3y.png",
+        "logo": "https://i.imgur.com/oDHGhpX.png",
+        "thumbnail": "https://i.imgur.com/aMNtnxW.png",
+        "description": "O capitão da força especial da Polícia Militar do Rio de Janeiro encara uma difícil missão.",
+        "genres": [
+            "Filmes baseados em livros",
+            "Ação e aventura",
+            "Suspense de açao"
+        ],
+        "cast": [
+            "Wagner Moura",
+            "André Ramiro",
+            "Caio Junqueira"
+        ],
+        " scenes_moments": [
+            "Adrenalina",
+            "Realistas",
+            "Violentos"
+        ]
+    },
+    {
+        "title": "Até o Último Homem",
+        "type": "movie",
+        "cover": "https://i.imgur.com/M4NVavf.png",
+        "logo": "https://i.imgur.com/8owLMuz.png",
+        "thumbnail": "https://i.imgur.com/KiNM9OY.png",
+        "description": "Acompanhe a impressionante história de Desmond T. Doss, um médico do exército que confiava em Deus acima de tudo.",
+        "genres": [
+            "Filmes baseados na vida real",
+            "Dramas",
+            "Dramas militares"
+        ],
+        "cast": [
+            "Vince Vaughn",
+            "Like Pegler",
+            "Firass Dirani"
+        ],
+        " scenes_moments": [
+            "Violentos",
+            "Realistas",
+            "Comoventes"
+        ]
+    },
+    {
+        "title": "O Regresso",
+        "type": "movie",
+        "cover": "https://i.imgur.com/fte3dLt.png",
+        "logo": "https://i.imgur.com/AE5wiM7.png",
+        "thumbnail": "https://i.imgur.com/4D6QQxb.png",
+        "description": "Após ser atacado por um urso, o caçador Hugh Glass precisa sobreviver no inverno surreal de Wyhight.",
+        "genres": [
+            "Filmes baseados na vida real",
+            "Obras de época",
+            "Ação e aventura"
+        ],
+        "cast": [
+            "Leonardo di Capri",
+            "Terry Crews",
+            "Joseph Whjksu"
+        ],
+        " scenes_moments": [
+            "Violentos",
+            "Realistas",
+            "Comoventes"
+        ]
+    },
+    {
+        "title": "Justiceiro",
+        "type": "serie",
+        "cover": "https://i.imgur.com/eXbhbs4.png",
+        "logo": "https://i.imgur.com/TKwvurs.png",
+        "thumbnail": "https://i.imgur.com/pa4Sd2m.png",
+        "description": "O agente do FBI Frank Castle se transforma em um justiceiro após sofrer uma tragédia familiar.",
+        "genres": [
+            "Séries baseadas em HQ",
+            "Suspense para TV",
+            "Séries do EUA"
+        ],
+        "cast": [
+            "Jon Bernthal",
+            "Ben Barnes",
+            "Amber Rose Revah"
+        ],
+        " scenes_moments": [
+            "Violentos",
+            "Realistas",
+            "Comoventes"
+        ]
+    },
+    {
+        "title": "Tróia",
+        "type": "movie",
+        "cover": "https://i.imgur.com/lDcF7c6.png",
+        "logo": "https://i.imgur.com/nI9wuJF.png",
+        "thumbnail": "https://i.imgur.com/mLck3pN.png",
+        "description": "O filme conta a História da batalha entre os reinos antigos.",
+        "genres": [
+            "Dramas romanticos para TV",
+            "Baseado em fatos reais",
+            "Ação e aventura"
+        ],
+        "cast": [
+            "Brad Pitt",
+            "Terry Crews",
+            "Joseph Whjksu"
+        ],
+        " scenes_moments": [
+            "Violentos",
+            "Realistas",
+            "Comoventes"
+        ]
+    },
+    {
+        "title": "O Durão",
+        "type": "movie",
+        "cover": "https://i.imgur.com/lVj3vnw.png",
+        "logo": "https://i.imgur.com/OWF2nWF.png",
+        "thumbnail": "https://i.imgur.com/UFhOXu0.png",
+        "description": "Quando o milionário James King é preso por fraude e perde toda sua fortuna.",
+        "genres": [
+            "Comédia",
+            "Comédia de fim de noite"
+        ],
+        "cast": [
+            "Will Ferrell",
+            "Kevin Hart",
+            "Craig T. Nelson"
+        ],
+        " scenes_moments": [
+            "Apimentados",
+            "Irreverentes",
+            "Besterol"
+        ]
+    }
+]
