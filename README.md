@@ -1,5 +1,8 @@
 # Netflix app - Clone
 
+Project done for learning experience. 
+Original : https://www.youtube.com/watch?v=PSOmihuvMH8&list=PL_Axpn7FrXHSt92vK3EthJCId4mUn7viv
+
 ## How to access
 
 1- Clone this repository: https://github.com/Maxohl/Cloneflix.git
